@@ -1,0 +1,5 @@
+rootProject.name = 'nYear'
+include 'src'
+include 'main.java'
+include 'main'
+
